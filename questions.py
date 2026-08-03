@@ -1,9 +1,9 @@
 import json
 import os
 
-MAX_REPO = 40
-SOURCE_REPO = "codertjay/gitlab-runner"
-REPO_NAME = "gitlab-runner"
+MAX_REPO = 25
+SOURCE_REPO = "anza-xyz/agave"
+REPO_NAME = "agave"
 TREE = ""
 BRANCH = ""
 # Example:
