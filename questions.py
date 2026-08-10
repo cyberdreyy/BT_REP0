@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "celestiaorg/sp1-blobstream"
-REPO_NAME = "sp1-blobstream"
+SOURCE_REPO = "0dotxyz/marginfi-v2"
+REPO_NAME = "marginfi-v2"
 TREE = ""
 BRANCH = ""
 # Example:
