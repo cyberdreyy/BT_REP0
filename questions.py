@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "0dotxyz/marginfi-v2"
-REPO_NAME = "marginfi-v2"
+SOURCE_REPO = "codertjay/privy-js-sdk-core-audit"
+REPO_NAME = "privy-js-sdk-core-audit"
 TREE = ""
 BRANCH = ""
 # Example:
