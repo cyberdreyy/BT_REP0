@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "codertjay/privy-js-sdk-core-audit"
-REPO_NAME = "privy-js-sdk-core-audit"
+SOURCE_REPO = "anza-xyz/agave"
+REPO_NAME = "agaves"
 TREE = ""
 BRANCH = ""
 # Example:
