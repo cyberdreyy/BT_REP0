@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "ethereum/consensus-specs"
-REPO_NAME = "consensus-specs"
+SOURCE_REPO = "codertjay/gitlab"
+REPO_NAME = "gitlab"
 TREE = ""
 BRANCH = ""
 # Example:
