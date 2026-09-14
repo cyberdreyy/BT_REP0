@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "codertjay/gitlab"
-REPO_NAME = "gitlab"
+SOURCE_REPO = "base/base"
+REPO_NAME = "base"
 TREE = ""
 BRANCH = ""
 # Example:
