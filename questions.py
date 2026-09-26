@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "aera-finance/aera-contracts-public"
-REPO_NAME = "aera-contracts-public"
+SOURCE_REPO = "Idle-Labs/idle-tranches"
+REPO_NAME = "idle-tranches"
 TREE = ""
 BRANCH = ""
 # Example:
